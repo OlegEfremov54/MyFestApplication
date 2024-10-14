@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFestApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="helloy">Результат</string>
+    <string name="start">Преобразовать</string>
+    <string name="Hint">Введите текст</string>
+    <string name="count">Количество символов</string>
+    <string name="result_count">Количество символов в введеном тексте</string>
+</resources>
